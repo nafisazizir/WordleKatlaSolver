@@ -1,0 +1,2 @@
+# WordleKatlaSolver
+Wordle, the web-based word game, gives six chances to the players to guess a randomly selected five-letter word. If the correct letter is in the right spot, it shows up green. If the correct letter is in the wrong spot, it shows up yellow. Moreover, if a letter is not in the word in any spot then it shows up gray. While Wordle is the English version, Katla is the Bahasa version. 
