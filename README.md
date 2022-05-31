@@ -17,7 +17,7 @@ Install the required packages by executing the following command.
 - ```main.py``` : main program to execute EAN 13 Barcode Generator
 - ```button.py``` : python file contain functions to make the button
 - ```requirements.txt``` : text file contains dependencies of the program
-- Inside ```database``` folder, there are two ```.txt``` files namely ```worlde.txt``` and ```katla.txt``. Those are the list of all 5 letter words in english and bahasa
+- Inside ```database``` folder, there are two ```.txt``` files namely ```worlde.txt``` and ```katla.txt```. Those are the list of all 5 letter words in english and bahasa
 
 ## Deploy demo
 1. Download prequisites, procedure is in **Dependencies** section
